@@ -16,7 +16,7 @@ p{
 
 .para{
   position: absolute;
-  left: 400px;
+  left: 33%;
   top: 280px;
   color: #66BFBF;
   font-weight: normal;
@@ -55,7 +55,7 @@ a:hover{
 .suncloud{
   height: 100px;
   width: 150px;
-  margin-left: 800px;
+  margin-left: 70%;
   position: relative;
   top: 70px
 }
@@ -64,12 +64,12 @@ a:hover{
   width: 150px;
   position: absolute;
   display: inline-block;
-  margin-left: 300px;
+  margin-left: 25%;
 }
 .mountain{
   height: 300px;
   width: 500px;
-  margin-left: 450px;
+  margin-left: 33%;
   margin-top: 150px;
 }
 .top-container{
