@@ -1,0 +1,139 @@
+body{
+  color: #40514E;
+  margin: 0;
+  font-family: 'Montserrat',sans-serif;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  position: relative;
+  top: 20px;
+  color:#66BFBF;
+}
+p{
+  font-family: 'Montserrat',sans-serif;
+}
+
+.para{
+  position: absolute;
+  margin: 0 38% auto;
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat',sans-serif;
+  width: 50%;
+}
+h2{
+  color:#66BFBF;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+h5{
+  color: #EAF6F6;
+  margin: 20px 0;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 7px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.suncloud{
+  height: 100px;
+  width: 150px;
+  margin-left: 70%;
+  position: relative;
+  top: 70px
+}
+.solocloud{
+  height: 100px;
+  width: 150px;
+  position: absolute;
+  display: inline-block;
+  margin-left: 20%;
+}
+.mountain{
+  height: 300px;
+  width: 500px;
+  margin: auto 28% auto;
+  margin-top: 150px;
+}
+.top-container{
+  background-color: #EAF6F6;
+}
+.middle-container{
+  text-align: center;
+}
+.profile{
+  width: 30%;
+  margin: auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bottom-container{
+  margin: 80px auto 0 auto;
+  text-align: center;
+  background-color: #66BFBF;
+  padding: 50px 0 30px;
+  line-height: 2;
+}
+.myimage{
+  height: 180px;
+  width: 180px;
+  border-radius: 80%;
+  margin-top: 80px;
+}
+.programmingpic{
+  border-radius: 50%;
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.bugimage{
+  border-radius: 50%;
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-text{
+  width: 40%;
+  margin: 30px auto 30px auto;
+  text-align: center;
+  line-height: 2;
+}
+.btn{
+  background: #11cdd4;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat',sans-serif;
+  color: #EAF6F6;
+  font-size: 24px;
+  padding: 11px 32px 11px 32px;
+  border: solid #239eeb 0;
+  text-decoration: none;
+}
+.btn:hover{
+  text-decoration: none;
+  background: #30e3cb;
+}
